@@ -1,14 +1,12 @@
-<h1>Hi visitor👋🦸‍♀️, I'm Marina Terentii aka ARTENTII</h1>
+<h1>Hi visitor👋🦸‍♀️,</h1>
 
-<h3 align="center">A <i>passionate designer</i> and <i>art enthusiast</i> from Spain... and on my way to become a frontend developer.</h3>
-
-- 🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
-
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
-
-- 💬 Ask me about **Figma, Graphic Design, Adobe Tools and art**
-
-- ✨ Beginner mindset (open to learning)
+<h3 align="center">I'm Marina Terentii aka ARTENTII, <i>passionate designer</i> and <i>art enthusiast</i> from Spain... and on my way to become a frontend developer.</h3>
+<p align="center">
+🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
+🌱 I’m currently learning **HTML, CSS and Javascript**
+💬 Ask me about **Figma, Graphic Design, Adobe Tools and art**
+✨ Beginner mindset (open to learning)
+</p>
 
 <h3 align="left">-📫 Connect with me: </h3>
 <p align="centre">
