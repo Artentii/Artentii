@@ -1,6 +1,6 @@
 <h1 align="centre">Hi ✨dear visitor✨, nice to see you! Welcome to the colorful world of ...</h1>
 
-(https://raw.githubusercontent.com/Artentii/Artentii/assets/Artentii.png)
+(https://raw.githubusercontent.com/Artentii/Artentii/assets/Sin-título-1.png)
 
 <h3 align="center">I'm Marina Terentii ... also known as Artentii as you might have noticed. I'm a <i>passionate designer</i>,<i>art enthusiast</i> ...and on my way to become a Frontend Developer.from Spain. I've always been interested in anything that relates to art & creativity and I've recently started building my career on web designing.</h3>
 
