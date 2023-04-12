@@ -3,8 +3,11 @@
 <h3 align="center">I'm Marina Terentii aka ARTENTII, <i>passionate designer</i> and <i>art enthusiast</i> from Spain... and on my way to become a frontend developer.</h3>
 
 -🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
+
 -🌱 I’m currently learning **HTML, CSS and Javascript**
+
 -💬 Ask me about **Figma, Graphic Design, Adobe Tools and art**
+
 -✨ Beginner mindset (open to learning)
 
 
