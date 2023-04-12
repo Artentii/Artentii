@@ -1,5 +1,6 @@
 <h1>Hi visitor👋🦸‍♀️, I'm Marina Terentii aka ARTENTII</h1>
-![LogotipoArtentii](https://user-images.githubusercontent.com/125751323/231419957-5a516eee-959c-4a77-8c1d-5f53f8d74ac0.jpg)
+[Uploading LogotipoArtentii.jpg…]()
+
 <h3 align="center">A passionate designer and art enthusiast from Spain... and on my way to become a frontend developer.</h3>
 
 - 🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
