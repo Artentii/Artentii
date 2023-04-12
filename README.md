@@ -1,10 +1,12 @@
-<h1 align="centre">Hi ✨dear visitor✨, nice to see you! Welcome to the colorful world of ...</h1>
+<img height="25px" src="https://user-images.githubusercontent.com/Artentii/assets/GRE.png" alt="Green"><h1 align="centre">Hi ✨dear visitor✨, nice to see you! Welcome to the colorful world of ...</h1>
 
-(https://raw.githubusercontent.com/Artentii/Artentii/master/assets/Sin-título-1.png)
+<img align="center" width="100%" src="assets/Sin-título-1.png" alt="Artentii">
 
-<h3 align="center">I'm Marina Terentii ... also known as Artentii as you might have noticed. I'm a <i>passionate designer</i>,<i>art enthusiast</i> ...and on my way to become a Frontend Developer.from Spain. I've always been interested in anything that relates to art & creativity and I've recently started building my career on web designing.</h3>
+<h4 align="center">I'm Marina Terentii ... also known as Artentii as you might have noticed.<h4>
+  
+<p align="center">I'm a <i>passionate designer</i>,<i>art enthusiast</i> ...and on my way to become a Frontend Developer.from Spain. I've always been interested in anything that relates to art & creativity and I've recently started building my career on web designing.</p>
 
--🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
+-🔭 I’m currently working on a personal project called **Discover Vincent Van Gogh** and creating web designs for **Ethseer/xyz**
 
 -🌱 I’m currently learning **HTML, CSS and Javascript**
 
