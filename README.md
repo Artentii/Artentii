@@ -1,21 +1,21 @@
 <h1>Hi visitor👋🦸‍♀️,</h1>
 
 <h3 align="center">I'm Marina Terentii aka ARTENTII, <i>passionate designer</i> and <i>art enthusiast</i> from Spain... and on my way to become a frontend developer.</h3>
-<p align="center">
-🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
-🌱 I’m currently learning **HTML, CSS and Javascript**
-💬 Ask me about **Figma, Graphic Design, Adobe Tools and art**
-✨ Beginner mindset (open to learning)
-</p>
+
+-🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
+-🌱 I’m currently learning **HTML, CSS and Javascript**
+-💬 Ask me about **Figma, Graphic Design, Adobe Tools and art**
+-✨ Beginner mindset (open to learning)
+
 
 <h3 align="left">-📫 Connect with me: </h3>
-<p align="centre">
+<p align="center">
 <a href="https://twitter.com/artentii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artentii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marina terentii cebotari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina terentii cebotari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">- 🎨 Check out my work: </h3>
-<p align="centre">
+<p align="center">
 <a href="https://www.behance.net/artentii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="marina terentii" height="30" width="40" /></a>
 <a href="https://dribbble.com/artentii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="artentii" height="30" width="40" /></a>
 </p>
