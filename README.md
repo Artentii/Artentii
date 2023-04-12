@@ -1,6 +1,8 @@
-<h1>Hi visitor👋🦸‍♀️,</h1>
+<h1 align="centre">Hi ✨dear visitor✨, nice to see you! Welcome to the colorful world of ...</h1>
 
-<h3 align="center">I'm Marina Terentii aka ARTENTII, <i>passionate designer</i> and <i>art enthusiast</i> from Spain... and on my way to become a frontend developer.</h3>
+<img height="25px" src="C:\Users\Lenovo\Documents\GitHub\Artentii\assets\Sin-título-1.png" alt="Artentii">
+
+<h3 align="center">I'm Marina Terentii ... also known as Artentii as you might have noticed. I'm a <i>passionate designer</i>,<i>art enthusiast</i> ...and on my way to become a Frontend Developer.from Spain. I've always been interested in anything that relates to art & creativity and I've recently started building my career on web designing.</h3>
 
 -🔭 I’m currently working on **Discover Vincent Van Gogh** and **Ethseer/xyz**
 
@@ -27,3 +29,4 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
