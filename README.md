@@ -1,5 +1,5 @@
 <h1>Hi visitor👋🦸‍♀️, I'm Marina Terentii aka ARTENTII</h1>
-[Uploading LogotipoArtentii.jpg…]()
+![LogotipoArtentii](https://user-images.githubusercontent.com/125751323/231421045-de30eb45-9e42-4c4c-bb95-f7b4e32373f7.jpg)
 
 <h3 align="center">A passionate designer and art enthusiast from Spain... and on my way to become a frontend developer.</h3>
 
