@@ -8,7 +8,6 @@
 <p align="center">I'm a <i>passionate Visual Designer</i>, <i>art enthusiast</i> ... and on my way to become a <i>Frontend Developer</i> from Spain. I've always been interested in anything connected to art & creativity and I've recently started building my career on Web Design.</p>
 
 ****
-<p align="center">👨‍💻 I’m currently creating from scratch </p>
 
 <p align="center">✨ Recent projects you can check out: <a href="https://opentechne.github.io/Discover-Vincent-VanGogh/">Discover Vincent Van Gogh</a>, <a href="https://migalabs.io/">MigaLabs</a>, <a href="https://ethseer.com/">Ethseer</a> & <a href="https://monitoreth.io/">MonitorEth</a></p>
 
