@@ -8,15 +8,15 @@
 <p align="center">I'm a <i>passionate Visual Designer</i>, <i>art enthusiast</i> ... and on my way to become a <i>Frontend Developer</i> from Spain. I've always been interested in anything connected to art & creativity and I've recently started building my career on Web Design.</p>
 
 ****
-<p align="center">👨‍💻 I’m currently creating from scratch <a href="https://opentechne.github.io/Discover-Vincent-VanGogh/">Discover Vincent Van Gogh</a></p>
+<p align="center">👨‍💻 I’m currently creating from scratch </p>
 
-<p align="center">🐼 Making the coolest designs for MigaLabs & helping out my team</p>
+<p align="center">✨ Recent projects you can check out: <a href="https://opentechne.github.io/Discover-Vincent-VanGogh/">Discover Vincent Van Gogh</a>, <a href="https://migalabs.io/">MigaLabs</a>, <a href="https://ethseer.com/">Ethseer</a> & <a href="https://monitoreth.io/">MonitorEth</a></p>
+
+<p align="center">🐼 Making the coolest designs at <a href="https://github.com/migalabs">MigaLabs</a> & helping out my team</p>
 
 <p align="center">🔭 I’m currently learning Javascript, three.js & 3d Illustration with Blender</p>
 
-<p align="center">✨ Beginner mindset (open to learning)</p>
-
-<p align="center">💬 Let's talk! </p>
+<p align="center">🤲 Beginner mindset (open to learning)</p>
 
 ****
 
