@@ -8,11 +8,11 @@
 <p align="center">I'm a <i>passionate Visual Designer</i>, <i>art enthusiast</i> ... and on my way to become a <i>Frontend Developer</i> from Spain. I've always been interested in anything connected to art & creativity and I've recently started building my career on Web Design.</p>
 
 ****
-<p align="center">👨‍💻 I’m currently creating from scratch Discover Vincent Van Gogh</p>
+<p align="center">👨‍💻 I’m currently creating from scratch <a href="[https://www.behance.net/artentii](https://opentechne.github.io/Discover-Vincent-VanGogh/)" target="blank">Discover Vincent Van Gogh</a></p>
 
-<p align="center">🐼 Making the coolest designs for Ethseer/xyz & helping out my team</p>
+<p align="center">🐼 Making the coolest designs for MigaLabs & helping out my team</p>
 
-<p align="center">🔭 I’m currently learning Javascript</p>
+<p align="center">🔭 I’m currently learning Javascript, three.js & 3d Illustration with Blender</p>
 
 <p align="center">✨ Beginner mindset (open to learning)</p>
 
