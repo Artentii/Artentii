@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨dear visitor✨, nice to see you!</h1>
 <h3 align="center">Welcome to the colorful world of ...</h3>
 
-<img align="center" width="300px" src="assets/Logo.png" alt="Artentii">
+<img align="center" width="300px" src="assets/Github-bg" alt="Artentii">
 
 <h3 align="center">I'm Marina Terentii ... also known as Artentii as you may have noticed.</h3>
   
