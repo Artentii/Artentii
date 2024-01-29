@@ -1,12 +1,6 @@
 <h1 align="center">Hi ✨dear visitor✨, it's really nice having you here!</h1>
 
-<<<<<<< Updated upstream
-<img align="center" src="assets/Github-bg.png" alt="Artentii">
-
-<h3 align="center">I'm Marina Terentii ... also known as Artentii as you may have noticed.</h3>
-=======
 <h3>I'm Marina Terentii ... also known as Artentii.</h3>
->>>>>>> Stashed changes
   
 <p>Professional and enthusiast Graphic and Web Designer with two years of experience in website design and digital graphic communication. My passion for art and design are used as a tool for helping companies market and promote their brand and product.</p>
 
