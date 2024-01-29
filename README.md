@@ -4,7 +4,7 @@
   
 <p>Professional and enthusiast Graphic and Web Designer with two years of experience in website design and digital graphic communication. My passion for art and design are used as a tool for helping companies market and promote their brand and product.</p>
 
-<img align="center" width="800px" src="assets/Hero_image.png" alt="Artentii">
+<img align="center" width="600px" src="assets/Hero_image.png" alt="Artentii">
 
 ---
 
@@ -19,7 +19,7 @@
 <h3>📫 Connect with me: </h3>
 <p>
 <a href="https://twitter.com/artentii"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artentii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marina terentii cebotari">< src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina terentii cebotari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marina terentii cebotari"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina terentii cebotari" height="30" width="40" /></a>
 </p>
 
 <h3>🎨 Check out my work: </h3>
