@@ -4,7 +4,7 @@
   
 <p>Professional and enthusiast Graphic and Web Designer with two years of experience in website design and digital graphic communication. My passion for art and design are used as a tool for helping companies market and promote their brand and product.</p>
 
-<img align="center" width="600px" src="assets/Hero_image.png" alt="Artentii">
+<img align="center" width="900px" src="assets/Hero_image.png" alt="Artentii">
 
 ---
 
